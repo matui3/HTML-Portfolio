@@ -1,0 +1,3 @@
+[submodule "public/Snake"]
+	path = public/Snake
+	url = https://github.com/matui3/Snake-JavaScript.git
